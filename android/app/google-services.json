@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "399529334438",
+    "project_id": "swatch-sewak",
+    "storage_bucket": "swatch-sewak.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399529334438:android:7cee4413eefe9e0f874667",
+        "android_client_info": {
+          "package_name": "com.akshat.SwatchSewak.swatch_sewak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz_pZF22CstQlJYMdyGlmoc-BnebgXnVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
